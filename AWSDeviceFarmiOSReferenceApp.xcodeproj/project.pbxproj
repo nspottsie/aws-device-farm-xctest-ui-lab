@@ -743,6 +743,7 @@
 				INFOPLIST_FILE = ADFiOSReferenceApp/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 6.1;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.Amazon.AWSDeviceFarmiOSReferenceApp;
 				PRODUCT_NAME = AWSDeviceFarmiOSReferenceApp;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -757,6 +758,7 @@
 				INFOPLIST_FILE = ADFiOSReferenceApp/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 6.1;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.Amazon.AWSDeviceFarmiOSReferenceApp;
 				PRODUCT_NAME = AWSDeviceFarmiOSReferenceApp;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -771,7 +773,7 @@
 				INFOPLIST_FILE = ADFiOSReferenceAppUITests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = amazon.aws.device.farm.ADFiOSReferenceAppUITests;
+				PRODUCT_BUNDLE_IDENTIFIER = com.amazon.aws.device.farm.ADFiOSReferenceAppUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TEST_TARGET_NAME = AWSDeviceFarmiOSReferenceApp;
 			};
@@ -784,7 +786,7 @@
 				INFOPLIST_FILE = ADFiOSReferenceAppUITests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = amazon.aws.device.farm.ADFiOSReferenceAppUITests;
+				PRODUCT_BUNDLE_IDENTIFIER = com.amazon.aws.device.farm.ADFiOSReferenceAppUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TEST_TARGET_NAME = AWSDeviceFarmiOSReferenceApp;
 			};
