@@ -24,8 +24,8 @@ You will need to download the "App.ipa" and "Runner.ipa" binaries. Remember the 
 1. We will use the default device state for this test run. Take note of the various options available to further customize your own future test runs. Click "Next step" ![DeviceState](images/Lab_10.png)
 1. We will use the default Execution timeout settings. Verify that the summary information is correct and click "Confirm and start run"![ExecutionTimeout](images/Lab_11.png)
 1. The App.ipa run will show up on the main Device Farm dashboard. Click the row to see more detailed status of the test run ![TestRun](images/Lab_12.png)
-1. The test suit will now run independently on each device in the pool. This can take anywhere from 5-10 minutes per device, so get up and grab a drink or answer some emails. ![TestRunProgress](images/Lab_13.png)
-1. All tests and the lab are now complete. You can drill into the specific test results per device and look at logs and screen shots from the device. ![TestRunComplete](images/Lab_14.png)
+1. The test suite will now run independently on each device in the pool. This can take anywhere from 5-10 minutes per device, so get up and grab a drink or answer some emails. ![TestRunProgress](images/Lab_13.png)
+1. All tests and the lab are now complete. Using the managment console, you can drill into the specific test results per device, read logs, and view screen shots from the run. ![TestRunComplete](images/Lab_14.png)
 
 See the official AWS Device Farm documentation on [XCTest UI Testing](http://docs.aws.amazon.com/devicefarm/latest/developerguide/test-types-ios-xctest-ui.html) for more information.
 
